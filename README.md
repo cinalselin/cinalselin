@@ -5,4 +5,4 @@ I am currently attending a front-end bootcamp [@supercode](https://www.super-cod
 
 ![](https://komarev.com/ghpvc/?username=cinalselin&color=ff69b4)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cinalselin&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cinalselin&langs_count=8&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515)
