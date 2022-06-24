@@ -5,5 +5,5 @@ I am currently attending a front-end bootcamp [@supercode](https://www.super-cod
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cinalselin&label=Profile%20views&color=0e75b6&style=flat" alt="cinalselin" /> </p>
 
-
+https://github-readme-stats.vercel.app/api/top-langs/?username=cinalselin&theme=tokyonight
 
