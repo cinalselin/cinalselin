@@ -4,8 +4,6 @@ An aspiring junior front-end developer with a strong background in design. I gra
 I am currently attending a front-end bootcamp [@supercode](https://www.super-code.de/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cinalselin&label=Profile%20views&color=0e75b6&style=flat" alt="cinalselin" /> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cinalselin&show_icons=true&locale=en&layout=compact" alt="cinalselin" /></p>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cinalselin&theme=tokyonight)
 
 
