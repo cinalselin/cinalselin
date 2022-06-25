@@ -7,7 +7,7 @@ I am currently attending a front-end bootcamp at [super(code)](https://www.super
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cinalselin&langs_count=8&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=0000)
 
-**Languages **
+**Languages**
 <p align="left">
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -18,15 +18,11 @@ I am currently attending a front-end bootcamp at [super(code)](https://www.super
                 alt="javascript" width="30" height="30" /></a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
                 alt="bootstrap" width="30" height="30" /> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" />
-        </a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img
+                src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" /></a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img
                 src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
-                width="30" height="30" /> </a>
-        <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
+                width="30" height="30" /> </a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-                alt="photoshop" width="30" height="30" /> </a>
-
-        <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img
+                alt="photoshop" width="30" height="30" /> </a><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img
                 src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30" /> </a>
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
                 src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" /> </a>
@@ -35,9 +31,7 @@ I am currently attending a front-end bootcamp at [super(code)](https://www.super
 <p align="left">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="30" height="30" /> </a>
-
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
+            alt="react" width="30" height="30" /> </a><a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
             width="30" height="30" /> </a>
    </p>
