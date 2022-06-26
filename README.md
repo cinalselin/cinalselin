@@ -39,7 +39,7 @@ I am currently attending a front-end bootcamp at [super(code)](https://www.super
                 width="30" height="30" />&nbsp; </a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
                 alt="photoshop" width="30" height="30" /> &nbsp;</a><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img
-                src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30" /> &nbsp;</a>
+                src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30" /> </a>
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
                 src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" /> </a>
     </p>
