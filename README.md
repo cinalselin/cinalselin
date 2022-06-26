@@ -34,12 +34,12 @@ I am currently attending a front-end bootcamp at [super(code)](https://www.super
                 alt="css3" width="35" height="35" /> &nbsp;</a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
                 alt="bootstrap" width="30" height="30" /> &nbsp;</a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" /></a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img
+                src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" />&nbsp;</a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img
                 src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
                 width="30" height="30" />&nbsp; </a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
                 alt="photoshop" width="30" height="30" /> &nbsp;</a><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img
-                src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30" /> </a>
+                src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30" /> &nbsp;</a>
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
                 src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" /> </a>
     </p>
