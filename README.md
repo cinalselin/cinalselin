@@ -3,6 +3,10 @@
 An aspiring junior front-end developer with a strong background in design. I graduated in 2015 with a bachelor's degree in communication design. 
 I am currently attending a front-end bootcamp at [super(code)](https://www.super-code.de/)
 
+You can contact me via linkedin:
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selin-%C3%A7inal-6b28051a7/)
+
+
 ![](https://komarev.com/ghpvc/?username=cinalselin&color=ff69b4)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cinalselin&langs_count=8&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=0000)
@@ -47,6 +51,3 @@ I am currently attending a front-end bootcamp at [super(code)](https://www.super
                 src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" /> </a>
     </p>
    
-**How to contact me**
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selin-%C3%A7inal-6b28051a7/)
