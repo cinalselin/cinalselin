@@ -21,11 +21,10 @@ You can contact me via [Linkedin](https://www.linkedin.com/in/selin-%C3%A7inal-6
             alt="react" width="30" height="30" /> &nbsp;</a>
    </p>
    
-   
-**I want to learn**
+   <!--**I want to learn**
 <p align="left">
   
-   </p>
+   </p>t -->
    
 **Languages & Tools**
 <p align="left">
