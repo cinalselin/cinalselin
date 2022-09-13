@@ -9,10 +9,6 @@ You can contact me via [Linkedin](https://www.linkedin.com/in/selin-%C3%A7inal-6
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cinalselin&langs_count=8&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=0000)
 
-**I’m currently working on** <br>
-[camper app](https://github.com/cinalselin/camper-app) <br> [vat calculator](https://github.com/cinalselin/vat-calculator)
-
-
 **Currently learning**
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
@@ -20,14 +16,15 @@ You can contact me via [Linkedin](https://www.linkedin.com/in/selin-%C3%A7inal-6
                 alt="javascript" width="30" height="30" /></a><a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
             width="30" height="30" /> </a>
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+            alt="react" width="30" height="30" /> &nbsp;</a>
    </p>
    
    
 **I want to learn**
 <p align="left">
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="30" height="30" /> &nbsp;</a>
+  
    </p>
    
 **Languages & Tools**
@@ -49,3 +46,6 @@ You can contact me via [Linkedin](https://www.linkedin.com/in/selin-%C3%A7inal-6
                 src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" /> </a>
     </p>
    
+   **I’m currently working on** <br>
+[camper app](https://github.com/cinalselin/camper-app) <br> [vat calculator](https://github.com/cinalselin/vat-calculator)
+
