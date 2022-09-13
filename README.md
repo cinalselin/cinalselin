@@ -55,7 +55,10 @@ You can contact me via [Linkedin](https://www.linkedin.com/in/selin-%C3%A7inal-6
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
                 src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" /> </a>
     </p>
-   
+ 
+   <!--    
    **I’m currently working on** <br>
 [camper app](https://github.com/cinalselin/camper-app) <br> [vat calculator](https://github.com/cinalselin/vat-calculator)
+ -->
+
 
