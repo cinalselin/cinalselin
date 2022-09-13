@@ -47,3 +47,6 @@ I am currently attending a front-end bootcamp at [super(code)](https://www.super
                 src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" /> </a>
     </p>
    
+**How to contact me**
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selin-%C3%A7inal-6b28051a7/)
