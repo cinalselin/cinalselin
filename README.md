@@ -25,7 +25,7 @@ You can contact me via [Linkedin](https://www.linkedin.com/in/selin-%C3%A7inal-6
          
    **I want to learn**
 <p align="left">
-    <a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScrip](https://angular.io)t" target="_blank" rel="noreferrer"> <img
+    <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img
                 src="https://angular.io/assets/images/logos/angular/angular.svg"
                 alt="angular" width="30" height="30" /></a>     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
                 src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
