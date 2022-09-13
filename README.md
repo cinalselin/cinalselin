@@ -21,10 +21,18 @@ You can contact me via [Linkedin](https://www.linkedin.com/in/selin-%C3%A7inal-6
             alt="react" width="30" height="30" /> &nbsp;</a>
    </p>
    
-   <!--**I want to learn**
+   **I want to learn**
 <p align="left">
-  
-   </p>t -->
+    <a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScrip](https://angular.io)t" target="_blank" rel="noreferrer"> <img
+                src="https://angular.io/assets/images/logos/angular/angular.svg"
+                alt="angular" width="30" height="30" /></a><a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
+            width="30" height="30" /> </a>
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+            alt="react" width="30" height="30" /> &nbsp;</a>
+   </p>
+
    
 **Languages & Tools**
 <p align="left">
