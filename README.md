@@ -3,7 +3,7 @@
 An aspiring junior front-end developer with a strong background in design. I graduated in 2015 with a bachelor's degree in communication design. 
 I am currently attending a front-end bootcamp at [super(code)](https://www.super-code.de/)
 
-You can contact me via [Linkedin](https://www.linkedin.com/in/selin-%C3%A7inal-6b28051a7/)
+You can contact me via [Linkedin](www.linkedin.com/in/selincinal)
 
 ![](https://komarev.com/ghpvc/?username=cinalselin&color=ff69b4)
 
