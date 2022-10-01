@@ -11,8 +11,8 @@ You can contact me via www.linkedin.com/in/selincinal
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cinalselin&langs_count=8&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=0000)
 
 **Currently working on**
-<p align="left">
-    <a href="https://github.com/ManuelBurdach/Free2Game-React" target="_blank" rel="noreferrer"> Currently working with a team of 4 on our final project -> 
+<p align="left"> Currently working with a team of 4 on our 
+    <a href="https://github.com/ManuelBurdach/Free2Game-React" target="_blank" rel="noreferrer">final project
  /></a>
    
    </p>
