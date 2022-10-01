@@ -13,7 +13,7 @@ You can contact me via www.linkedin.com/in/selincinal
 **Currently working on**
 <p align="left"> Currently working with a team of 4 on our 
     <a href="https://github.com/ManuelBurdach/Free2Game-React" target="_blank" rel="noreferrer">final project
- /></a>
+ </a>
    
    </p>
 
