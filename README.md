@@ -1,7 +1,6 @@
 ### Hi, I'm Selin 👋🏽
 
-An aspiring junior front-end developer with a strong background in design. I graduated in 2015 with a bachelor's degree in communication design. 
-I am currently attending a front-end bootcamp at [super(code)](https://www.super-code.de/)
+As a highly skilled and motivated professional with a background in communication design and over 5 years of experience as a graphic designer, I have a passion for combining my technical and creative skills to create visually appealing and user-friendly websites. Recently, I completed a frontend development bootcamp at  [super(code)](https://www.super-code.de/) and am now working as a junior frontend developer. I am always seeking new challenges and opportunities to grow my skills.
 
 You can contact me via www.linkedin.com/in/selincinal
 
