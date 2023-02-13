@@ -30,7 +30,7 @@ You can contact me via www.linkedin.com/in/selincinal
    </p>
          
    **I want to learn**
-<p align="left">
+*/<p align="left">
     <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img
                 src="https://angular.io/assets/images/logos/angular/angular.svg"
                 alt="angular" width="30" height="30" /></a>     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
@@ -41,7 +41,7 @@ You can contact me via www.linkedin.com/in/selincinal
                 alt="typescript" width="30" height="30" /></a>
    
    </p>
-
+/*
    
 **Languages & Tools**
 <p align="left">
