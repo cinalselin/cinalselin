@@ -28,9 +28,9 @@ You can contact me via www.linkedin.com/in/selincinal
             alt="react" width="30" height="30" /> &nbsp;</a>
    
    </p>
-         
+           <!--    
    **I want to learn**
-*/<p align="left">
+<p align="left">
     <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img
                 src="https://angular.io/assets/images/logos/angular/angular.svg"
                 alt="angular" width="30" height="30" /></a>     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
@@ -41,7 +41,7 @@ You can contact me via www.linkedin.com/in/selincinal
                 alt="typescript" width="30" height="30" /></a>
    
    </p>
-/*
+ --> 
    
 **Languages & Tools**
 <p align="left">
@@ -62,7 +62,7 @@ You can contact me via www.linkedin.com/in/selincinal
                 src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" /> </a>
     </p>
  
-   <!--    
+   <!--     
    **I’m currently working on** <br>
 [camper app](https://github.com/cinalselin/camper-app) <br> [vat calculator](https://github.com/cinalselin/vat-calculator)
  -->
