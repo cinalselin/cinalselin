@@ -1,5 +1,5 @@
 ### Hi, I'm Selin 👋🏽
-I am junior frontend developer with a strong background in design. I have graduated with a Bachelor's Degree in communication design in 2015 and successfully completed a front-end- Development bootcamp at [super(code)](https://www.super-code.de/) in October 2022. Currently working as a jr. frontend developer
+I am junior frontend developer with a strong background in design. I have graduated with a Bachelor's Degree in communication design in 2015 and successfully completed a front-end- Development bootcamp at [super(code)](https://www.super-code.de/) in October 2022. Currently working as a UI Designer & jr. frontend developer
 
 You can contact me via [Linkedin](www.linkedin.com/in/selincinal) 
 
