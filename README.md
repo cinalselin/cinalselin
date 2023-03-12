@@ -18,6 +18,9 @@ You can contact me via www.linkedin.com/in/selincinal
 **Currently learning**
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
+                src="https://vuejs.org/images/logo.png"
+                alt="vue3" width="30" height="30" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                 alt="javascript" width="30" height="30" /></a>
         <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
@@ -62,9 +65,5 @@ You can contact me via www.linkedin.com/in/selincinal
                 src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" /> </a>
     </p>
  
-   <!--     
-   **I’m currently working on** <br>
-[camper app](https://github.com/cinalselin/camper-app) <br> [vat calculator](https://github.com/cinalselin/vat-calculator)
- -->
 
 
