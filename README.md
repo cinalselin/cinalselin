@@ -3,7 +3,7 @@ I am junior frontend developer with a strong background in design. I have gradua
 
 You can contact me via [Linkedin](https://www.linkedin.com/in/selincinal)
 
-
+ <!--   
 ![](https://komarev.com/ghpvc/?username=cinalselin&color=ff69b4)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cinalselin&langs_count=8&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=0000)
@@ -25,7 +25,7 @@ You can contact me via [Linkedin](https://www.linkedin.com/in/selincinal)
             alt="react" width="30" height="30" /> &nbsp;</a>
    
    </p>
-           <!--    
+           
    **I want to learn**
 <p align="left">
     <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img
@@ -38,7 +38,7 @@ You can contact me via [Linkedin](https://www.linkedin.com/in/selincinal)
                 alt="typescript" width="30" height="30" /></a>
    
    </p>
- --> 
+
    
 **Languages & Tools**
 <p align="left">
@@ -65,5 +65,5 @@ You can contact me via [Linkedin](https://www.linkedin.com/in/selincinal)
                 src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" /> </a>
     </p>
  
-
+ --> 
 
